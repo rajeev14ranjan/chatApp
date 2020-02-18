@@ -1,0 +1,19 @@
+.chat {
+  color: white;
+  padding: 10px 15px;
+  border-radius: 10px;
+  margin: 2px;
+  clear: both;
+  max-width: 75%;
+  text-align: left;
+}
+
+.sender-text {
+  background: green;
+  float: right;
+}
+
+.receiver-text {
+  background: #2f5bb7;
+  float: left;
+}
